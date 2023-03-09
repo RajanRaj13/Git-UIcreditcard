@@ -1,1 +1,1 @@
-utility software functions for version 1
+utility software functions for version 2
